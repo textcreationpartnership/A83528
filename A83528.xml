@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two acts of Parliament, made in the 17. year of King Charles, I. of blessed memory. The first, concerning the High-Commission Court. And the powers of the arch-bishop, bishop vicar general, chancellor official, commisary, ordinary. And all other spiritual, or ecclesiastical judges, or ministers of justice. The second, that persons in holy orders shall not exercise any temperal jurisdiction</title>
+            <title>Proceedings. 1661</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83528</idno><idno type="EEBO-CITATION">99900065</idno>
+  <idno type="VID">132888</idno>
+  <idno type="EEBO-PROQUEST">2240863524</idno>
+  
+            <idno type="STC">Wing E2382B</idno>
+            <idno type="STC">ESTC R225902</idno>
+            <idno type="PROQUEST">99900065</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99900065e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83528)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132888)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2515:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two acts of Parliament, made in the 17. year of King Charles, I. of blessed memory. The first, concerning the High-Commission Court. And the powers of the arch-bishop, bishop vicar general, chancellor official, commisary, ordinary. And all other spiritual, or ecclesiastical judges, or ministers of justice. The second, that persons in holy orders shall not exercise any temperal jurisdiction</title>
+                  <title>Proceedings. 1661</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Spurdance, and are to be sold in Westminster-Hall, Pauls Church yard, and the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Powers and duties --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132888:1"/>
+            <p>TWO ACTS OF Parliament, Made in the 17. year of King <hi>CHARLES,</hi> I. OF Blessed Memory. The first <hi>Concerning the High-Com<g ref="char:EOLhyphen"/>mission Court. And the Powers of the Arch-Bishop, Bishop Vicar Ge<g ref="char:EOLhyphen"/>neral, Chancellor Official, Commis<g ref="char:EOLhyphen"/>sary, Ordinary. And all other Spi<g ref="char:EOLhyphen"/>ritual, or Ecclesiastical Judges, or Ministers of Justice.</hi> The Second, <hi>That Persons in holy Orders shall not exercise any Tem<g ref="char:EOLhyphen"/>peral Jurisdiction.</hi>
+            </p>
+            <p>London: <hi>Printed for</hi> Edward Spurdance, <hi>and are to be sold in</hi> Westminster-Hall, Pauls Church yard, <hi>and the</hi> Royal Exchange. 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="acts">
+            <pb facs="tcp:132888:2"/>
+            <pb facs="tcp:132888:2"/>
+            <div type="act">
+               <head>The High Commission Court taken away.<note place="margin">17. King <hi>Charles I.</hi> the 11. ch. pag. 12. in the Folio Book.</note>
+               </head>
+               <p>WHereas in the Parliament holden in the first year of the Reign of the late Queen <hi>Eliz.</hi> late Queen of <hi>England</hi> there was an Act made and established, Intituled, <hi>An Act restoring to the Crown the ancient Jurisdicti<g ref="char:EOLhyphen"/>on over the state Ecclesiastical and Spiritual, and abolishing all forreign power repugnant to the same;</hi> In which Act, amongst others things, their is contained one Clause, Branch, Arti<g ref="char:EOLhyphen"/>cle, or Sentence, whereby it was enacted to this effect; Namely, that the said late Queens Highness, her Heirs and Successours Kings or Queens of this Realm, shall have ful power and authority by vertue of that Act, by Letters Patents under the great Seal of <hi>England,</hi> to assign, name and authorize, when, and as often as her Highness, her Hairs or Successours should think meet and convenient, and for such, and so long time as should please her Highness, her Heirs or Successours, such person or persons being natural born Subjects to her Highness, her Heirs or Successours, as her Majesty, her Heirs or Successours should think meet to exercise, use, occupy and execute under her Highness, her Heirs and Successours, all manner of Jurisdictions, Priviledges and preheminence, in any wise touching or con<g ref="char:EOLhyphen"/>cerning any Spiritual or Ecclesiastical Juris<g ref="char:EOLhyphen"/>dictions within these her Realms of <hi>England</hi>
+                  <pb facs="tcp:132888:3"/> and <hi>Ireland,</hi> or any other her Highness Domi<g ref="char:EOLhyphen"/>nions and Countreys, and to visit, reform, redress, order, correct and amend all such errours, heresies, schismes, abuses, offences, contempts and Enormities whatsoever, which by any manner Spiritual or Ecclesia<g ref="char:EOLhyphen"/>stical power, authority or jurisdiction, can, or may lawfully be reformed, ordered, re<g ref="char:EOLhyphen"/>dressed, corrected, restrained or amended, to the pleasure of Almighty God, the in<g ref="char:EOLhyphen"/>crease of vertue, and the conservation of the peace and unity of this Realm. And that such person or persons so to be named, as<g ref="char:EOLhyphen"/>signed, authorized and appointed by her Highness, her Heirs or Successours, after the said Letters Patents to him or them made and delivered, as aforesaid, should have ful power and authority by vertue of that Act, and of the said Letters Patents under her Highness, her Heirs or Successours, to ex<g ref="char:EOLhyphen"/>ercise, use, and execute all the premisses, ac<g ref="char:EOLhyphen"/>cording to the tenour and affect of the said Letters Patents, any matter or cause to the contrary in any wise notwithstanding.</p>
+               <p>
+                  <note place="margin">High Commissi<g ref="char:EOLhyphen"/>on Court.</note> And whereas by colour of some words in the foresaid Branch of the said Act, where<g ref="char:EOLhyphen"/>by Commissioners are authorized to execute their Commission according to the tenour and effect of the Kings Letters, Patents, and by Letters Patents grounded thereupon, the said Commissioners have, to the great and insufferable wrong and oppression of the Kings Subjects, used to fine and imprison them, and to exercise other authority not
+<pb facs="tcp:132888:3"/> belonging to Ecclesiastical Jurisdiction re<g ref="char:EOLhyphen"/>stored by that Act, and divers other great mischiefs and inconveniences have also en<g ref="char:EOLhyphen"/>sued to the Kings Subjects, by occasion of the said Branch and Commissions issued thereupon, and the Executions thereof: Therefore for the repressing and preventing of the foresaid abuses, mischiefs and incon<g ref="char:EOLhyphen"/>veniences in time to come.</p>
+               <p>
+                  <note place="margin">Repeal.</note> Be it enacted by the Kings most Excel<g ref="char:EOLhyphen"/>lent Majesty, and the Lords and Commons in this present Parliament assembled, and by the authority of the same, That the foresaid Branch, Clause, Article or Sentence contai<g ref="char:EOLhyphen"/>ned in the said Act, and every word, matter and thing contained in that Branch, Clause, Article, or Sentence, shall from henceforth be repealed, annulled, revoked, annihilated and utterly made void for ever, any thing in the said Act to the contrary in any wise not<g ref="char:EOLhyphen"/>withstanding.</p>
+               <p>
+                  <note place="margin">Powers taken a<g ref="char:EOLhyphen"/>way.</note> And be it also enacted by the authority a<g ref="char:EOLhyphen"/>foresaid, That no Arch-bishop, Bishop, nor Uicar General, nor any Chancellour, Offi<g ref="char:EOLhyphen"/>cial nor Commissary of any Arch-bishop, Bishop, or Uicar General, nor any Ordina<g ref="char:EOLhyphen"/>ry whatsoever, nor any other Spiritual or Ecclesiastical Judg, Officer or Minister of Justice, nor any other person or persons whatsoever, exercising Spiritual or Ecclesia<g ref="char:EOLhyphen"/>stical power, authority, or jurisdiction, by any Grant, Licence, or Commission of the Kings Majesty, his Heirs or Successors, or by any power or authority derived from the
+<pb facs="tcp:132888:4"/> King, his Heirs or Successors, or otherwise, shall, from and after the first day of <hi>August,</hi> which shall be in the year of our Lord God, One thousand six hundred fourty and one, award, impose, or inflict any pain, penalty, fine, amercement, imprisonment, or other corporal punishment upon any of the Kings Subjects, for any contempt, misdemeanour, crime, offence, matter or thing whatsoever, belonging to Spiritual or Ecclesiastical cog<g ref="char:EOLhyphen"/>nizance or jurisdiction, <note place="margin">Oath <hi>ex officio.</hi>
+                  </note> or shall <hi>ex officio,</hi> or at the instance or promotion of any other person whatsoever, urge, enforce, tender, give, or minister unto any Church-warden, Syde-man, or other person whatsoever, any corporal Oath, whereby he or she shall or may be charged or obliged to make any pre<g ref="char:EOLhyphen"/>sentment of any crime or offence, or to con<g ref="char:EOLhyphen"/>fess or to accuse him or her self of any crime, offence, delinquency or misdemeanour, or any neglect, matter of thing, whereby, or by reason whereof, he or she shall or may be lyable or exposed to any censure, pain, pe<g ref="char:EOLhyphen"/>nalty, or punishment whatsoever, upon pain and penalty, <note place="margin">Penalty of one hund<g ref="char:EOLhyphen"/>red pounds, and treble dammages.</note> that every person, who shall of<g ref="char:EOLhyphen"/>fend contrary to this Statute, shal forfeit and pay treble dammages to every person there<g ref="char:EOLhyphen"/>by grieved, and the sum of one hundred pounds to him or them, who shall first de<g ref="char:EOLhyphen"/>mand and sue for the same, which said treble dammages and sum of one hundred pounds, shall and may be demanded and recovered by Action of debt, Bill, or Plaint in any Court of Record, wherein no Priviledge,
+<pb facs="tcp:132888:4"/> Essoign, Protection, or Wager of Law shall be admitted or allowed to the Defendant. And be it further Enacted, <note place="margin">Offender convicted, disabled for any Office or Imploy<g ref="char:EOLhyphen"/>ment.</note> That every per<g ref="char:EOLhyphen"/>son who shall be once convicted of any Act or Offence, prohibited by this Statute, shall for such Act or Offence be from and after such conviction utterly disable to be or con<g ref="char:EOLhyphen"/>tinue in any office or imployment, in any Court of Justice whatsoever: or to exercise or execute any power, authority, or jurisdi<g ref="char:EOLhyphen"/>ction, by force of any Commission, or letters Patents of the King, his Heirs or Successors.</p>
+               <p>And be it further Enacted, <note place="margin">No new Court with like power shall be e<g ref="char:EOLhyphen"/>rected.</note> That from and after the first day of <hi>August,</hi> no new Court shall be Erected, ordained, or appointed within this Realm of <hi>England</hi> or Dominion of <hi>Wales,</hi> which shall or may have the like power, jurisdiction, or authority, as the said high Commission Court now hath or pre<g ref="char:EOLhyphen"/>tendeth to have. But that all and every such Letters Patents, Commissions and Grants made or to be made by his Majesty, his Heirs or Successors, And all power and authorities granted or pretended, or mentioned to be granted thereby, and all Acts, Sentences and Decrees to be made by vertue or color ther<g ref="char:EOLhyphen"/>of, shall be utterly void and of none effect.</p>
+            </div>
+            <div type="act">
+               <head>Persons in holy Orders shall not exercise any Temporal Jurisdiction.<note place="margin">17. King <hi>Charles I.</hi> the 28. ch. pag. 21. in the Folio Book.</note>
+               </head>
+               <p>WHereas Bishops and other persons in holy Orders ought not to be intangled with secular Jurisdiction (the office of the Ministery being of such great importance, that it will take up the whol man) And for
+<pb facs="tcp:132888:5"/>
+                  <note place="margin">Persons in holy Or<g ref="char:EOLhyphen"/>ders ought not to be intangled with secu<g ref="char:EOLhyphen"/>lar juris<g ref="char:EOLhyphen"/>diction.</note> that it is found by long experience, that their intermedling with secular Jurisdicti<g ref="char:EOLhyphen"/>ons, hath occasioned great mischiefs and scandal, both to Church and State; His Majesty, out of his Religious care of the Church and Souls of his people, is graci<g ref="char:EOLhyphen"/>ously pleased that it be Enacted, And by au<g ref="char:EOLhyphen"/>thority of his present Parliament be it En<g ref="char:EOLhyphen"/>acted, <note place="margin">Such shall not sit in Parliament nor be of the Privy Council, Justice of Peace, or exercise Temporal authority by Com<g ref="char:EOLhyphen"/>mission.</note> That no Arch-bishop or Bishop, or other person that now is, or hereafter shall be in holy Orders, shall at any time, after the fifteenth day of <hi>February,</hi> in the year of our Lord, One thousand six hundred forty one, have any Seat or Place, Suffrage or voice, or use or execute any power or au<g ref="char:EOLhyphen"/>thority in the Parliaments of this Realm, nor shall be of the Privy Council of his Majesty, his Hairs or Successors, or Justice of the Peace of Oyer and Terminer, or Goal-de<g ref="char:EOLhyphen"/>livery, or execute any Temporal authority by vertue of any Commission, but shall be wholly disabled, and be uncapable to have, receive, or use, or execute any of the said Offices, Places, Powers, Authorities, and things aforesaid.</p>
+               <p>And be it further Enacted by the authority aforesaid, <note place="margin">All Acts and Suf<g ref="char:EOLhyphen"/>frages con<g ref="char:EOLhyphen"/>trary here<g ref="char:EOLhyphen"/>unto, to be void.</note> That all Acts from and after the said fifteenth day of <hi>February,</hi> which shall be done or executed by any Arch-bishop or Bishop or other person whatsoever in holy Orders, and all and every Suffrage or Voice, given or delivered by them or any of them, or other thing done by them or any of them contrary to the Purport and true meaning of this present Act, shall be utterly void to all intents, constructions and purposes.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:132888:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
